@@ -9,11 +9,13 @@
 2. Aby włączyć program, należy najpierw pobrać biblioteki: customtkinter, mysql.connector, deep_translator, pillow.
    Trzeba włączyć xampp, dla bazy danych
 
+3. Jest program „Database-installer” który tworzy bazę danych w folderze „Database”, na podstawie pliku SQL.
 
 4. W folderze „Databese” znajdują bazy danych i pytania.
    W folderze „Difficulties” znajdują się poziomy trudności.
    W folderze „Images” znajdują się fotografji.
    W folderze „Textures” znajdują się fotografji dla ikony.
+   
    
 6. Opis
    „Quadrolingers.py”
